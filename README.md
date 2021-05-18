@@ -1,1 +1,1 @@
-# CF-II-ImplementacaoSistemaDeploy-Desafio-Cristiane-Damacena
+# pretalab-ci-cd-cris-damacena
