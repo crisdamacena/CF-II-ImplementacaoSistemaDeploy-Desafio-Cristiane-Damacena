@@ -12,6 +12,10 @@ jobs:
       name: Valida a sintaxe e estilo
       script: npm run linter
 
+    - stage: unit tests
+      name: Testes unitários
+      script: npm test
+
     - stage: deploy
       name: Conecta no Heroku e faz o deploy
       script: skip
