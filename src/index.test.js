@@ -11,4 +11,3 @@ describe('Test the `/` path', () => {
       });
   });
 });
-
